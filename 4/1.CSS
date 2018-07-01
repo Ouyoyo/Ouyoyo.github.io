@@ -1,0 +1,39 @@
+h3{
+    text-align:center;
+    margin: 2%
+}
+.qq{
+    background-color: rgb(233, 233, 233)
+}
+.one,.two{
+    margin: 12%
+}
+span{
+    text-align: right
+}
+section:last-of-type{
+	width: 960px;
+	margin: 0 auto;
+	display: flex;
+    flex-wrap: wrap;
+}
+#footer{
+	margin-top: 50px; 
+	text-align: center;
+	height: 100px;
+	width: 100%;
+	line-height: 100px;
+	text-decoration: none;
+	background: rgb(0, 0, 0);
+	color: #fff;
+}
+article {
+    padding: 16px;
+    margin: 10px;
+}
+h3,h5,p{
+    font-family: cursive
+}
+.three{
+    text-align: center
+}
